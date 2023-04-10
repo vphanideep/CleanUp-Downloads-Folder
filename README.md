@@ -1,9 +1,9 @@
 <html>
 <head>
-  <title>CleanUp-Downloads-Folder</title>
+
 </head>
 <body>
-  <h1>Git Repository Readme</h1>
+  <h1>CleanUp-Downloads-Folder</h1>
   <p>This repository contains a Python script that moves files from the "Downloads" folder to the "To_delete" folder if they are older than a specified threshold.</p>
   <h2>Requirements</h2>
   <ul>
